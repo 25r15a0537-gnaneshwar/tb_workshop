@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "S001",
+      "name": "Rahul Sharma",
+      "email": "rahul@college.edu",
+      "role": "student",
+      "password": "student123"
+    },
+    {
+      "id": "M001",
+      "name": "Dr. Priya Mehta",
+      "email": "priya@college.edu",
+      "role": "moderator",
+      "password": "mod123"
+    },
+    {
+      "id": "G001",
+      "name": "Suresh Kumar",
+      "email": "suresh@college.edu",
+      "role": "gatekeeper",
+      "password": "gate123"
+    }
+  ],
+  "passes": []
+}
